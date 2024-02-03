@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 #include "DiagnosisAndMedicine.h"
 #include <iostream>
 #include <vector>
