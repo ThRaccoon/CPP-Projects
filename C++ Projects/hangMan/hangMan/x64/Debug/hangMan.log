@@ -1,0 +1,7 @@
+﻿  FunctionsLogic.cpp
+C:\Games&apps\C++\hangMan\hangMan\FunctionsLogic.cpp(78,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Games&apps\C++\hangMan\hangMan\FunctionsLogic.cpp(181,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Games&apps\C++\hangMan\hangMan\FunctionsLogic.cpp(238,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  hangMan.vcxproj -> C:\Games&apps\C++\hangMan\x64\Debug\hangMan.exe
