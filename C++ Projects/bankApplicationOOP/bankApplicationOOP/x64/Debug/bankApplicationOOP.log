@@ -1,0 +1,9 @@
+﻿  Bank.cpp
+  BankCard.cpp
+C:\Games&apps\C++\bankApplicationOOP\bankApplicationOOP\BankCard.cpp(80,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BankUser.cpp
+  BankАccount.cpp
+  Main.cpp
+C:\Games&apps\C++\bankApplicationOOP\bankApplicationOOP\Main.cpp(16,11): warning C4101: 'cardEGN': unreferenced local variable
+  Generating Code...
+  bankApplicationOOP.vcxproj -> C:\Games&apps\C++\bankApplicationOOP\x64\Debug\bankApplicationOOP.exe
