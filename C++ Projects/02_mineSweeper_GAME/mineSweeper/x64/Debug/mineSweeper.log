@@ -1,6 +1,0 @@
-﻿  functionsImplementation.cpp
-C:\Users\thrac\source\repos\mineSweeper\mineSweeper\functionsImplementation.cpp(49,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\thrac\source\repos\mineSweeper\mineSweeper\functionsImplementation.cpp(50,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  main.cpp
-  Generating Code...
-  mineSweeper.vcxproj -> C:\Users\thrac\source\repos\mineSweeper\x64\Debug\mineSweeper.exe
