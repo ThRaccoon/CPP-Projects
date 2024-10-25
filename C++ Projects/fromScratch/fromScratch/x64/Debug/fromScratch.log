@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\thrac\source\repos\fromScratch\fromScratch\main.cpp(75,5): warning C4286: 'const std::range_error &': is caught by base class ('const std::runtime_error &') on line 72
-  fromScratch.vcxproj -> C:\Users\thrac\source\repos\fromScratch\x64\Debug\fromScratch.exe
